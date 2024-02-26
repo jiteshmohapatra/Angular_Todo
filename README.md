@@ -1,7 +1,7 @@
 # Todo list By angular
 This Is my source code for todo-list
 
-<img align= "right" src="https://github.com/IIKirito-kunII/Bharat-Intern/blob/62bfd1bcf1953abb08d83864a6df5761fc884f7c/1677698736997.jpeg" width="300" height="200" align-items="right">
+<img align= "right" src="todo_output.png" width="300" height="200" align-items="right">
 
 
 
